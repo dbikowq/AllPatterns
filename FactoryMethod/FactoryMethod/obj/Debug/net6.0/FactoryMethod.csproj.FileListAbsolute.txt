@@ -1,0 +1,15 @@
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/bin/Debug/net6.0/FactoryMethod
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/bin/Debug/net6.0/FactoryMethod.deps.json
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/bin/Debug/net6.0/FactoryMethod.runtimeconfig.json
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/bin/Debug/net6.0/FactoryMethod.dll
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/bin/Debug/net6.0/FactoryMethod.pdb
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.csproj.AssemblyReference.cache
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.GeneratedMSBuildEditorConfig.editorconfig
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.AssemblyInfoInputs.cache
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.AssemblyInfo.cs
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.csproj.CoreCompileInputs.cache
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.dll
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/refint/FactoryMethod.dll
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.pdb
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/FactoryMethod.genruntimeconfig.cache
+/home/sigma.sbrf.ru@17835145/Рабочий стол/AllPatterns/FactoryMethod/FactoryMethod/obj/Debug/net6.0/ref/FactoryMethod.dll
