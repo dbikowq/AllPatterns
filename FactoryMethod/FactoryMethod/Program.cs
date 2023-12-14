@@ -1,3 +1,10 @@
-﻿// See https://aka.ms/new-console-template for more information
+﻿using System.Threading.Channels;
+using FactoryMethod;
 
-Console.WriteLine("Hello, World!");
+Creator creator = new CreatorLevel1();
+var level1 = creator.Create();
+Console.WriteLine(level1.Name);
+
+creator = new CreatorLevel2();
+var level = creator.Create();
+Console.WriteLine(level.Name);
